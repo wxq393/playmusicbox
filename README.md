@@ -11,9 +11,6 @@
 4.html5音乐API的使用
 
 ### 遇到问题及解决
-写代码的时候出现的问题
-
-
  1. music.json的路径问题   —— 去掉 ‘/ ’之后可以正常查看进程
 
  2. 跨域的问题  —— 下载一个sublimeserver的线上预览插件，解决跨域问题，以及http改为https
@@ -27,3 +24,6 @@
 http://music.163.com/song/media/outer/url?id=ID数字.mp3  
 - 如：金莎 最后一个夏天
 http://music.163.com/song/media/outer/url?id=247557
+
+
+
