@@ -77,3 +77,5 @@ http://music.163.com/song/media/outer/url?id=247557
 * 收获1：由于要将作品推github，使用Git推库更熟练
 * 收获2：因为跨域的产生，表面了解前后端分离的重要性
  
+### 图片展示
+![](https://ws4.sinaimg.cn/large/006tNbRwgy1fvad29e2cxj31dm0t8u0x.jpg)
